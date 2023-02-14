@@ -1,18 +1,9 @@
 # Site settings
 title: willcode.co
-email: willcodeco@proton.me
-url: https://willcode.co
 description: Development
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: willcode.co
-
+show_downloads: true
+google_analytics:
 # Build settings
 markdown: kramdown
-theme: minima
+theme: architect
 permalink: pretty
