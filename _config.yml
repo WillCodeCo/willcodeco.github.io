@@ -1,8 +1,7 @@
 # Site settings
-title: willcode.co
-description: Development
+title: willcode
+description: Senior Software Engineer
 show_downloads: true
-google_analytics:
 # Build settings
 markdown: kramdown
 remote_theme: pages-themes/architect@v0.2.0
